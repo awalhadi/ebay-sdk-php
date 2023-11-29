@@ -42,5 +42,7 @@
     "classmap": [
       "build/"
     ]
-  }
+  },
+  "minimum-stability": "dev",
+  "prefer-stable": true
 }
